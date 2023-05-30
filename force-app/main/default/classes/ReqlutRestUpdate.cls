@@ -158,25 +158,7 @@ system.debug(inclusion);
 system.debug(jobs);
             List<Careers> careers = requestData.careers;
 system.debug(careers);
-            List<Schools> schools = requestData.schools;
-system.debug(schools);
-            List<Postgraduates> postgraduates = requestData.postgraduates;
-system.debug(postgraduates);
-            List<AditionalInfo> aditionalInfo = requestData.aditionalInfo;
-system.debug(aditionalInfo);
-            List<Languages> languages = requestData.languages;
-system.debug(languages);
-            List<Habilities> habilities = requestData.habilities;
-system.debug(habilities);
-            List<Test> tests = requestData.tests;
-system.debug(tests);
-			
-            
-            
-            
-        } catch (Exception e) {
-            // Manejar la excepción según corresponda
-        }
+            List<Schools> schools = requesgi
     }
 
         // Mapear el JSON
